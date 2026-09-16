@@ -20,7 +20,7 @@
 
 ## 📌 Proje Genel Bakış
 
-**AkıllıEv v3**, yerel ağda çalışan endüstriyel Ethernet röle kartları, IP kamera sistemleri ve çevre birimlerini merkezi bir noktadan yönetmek üzere tasarlanmış yeni nesil bir akıllı ev yönetim merkezidir. 
+**YF Home System**, yerel ağda çalışan endüstriyel Ethernet röle kartları, IP kamera sistemleri ve çevre birimlerini merkezi bir noktadan yönetmek üzere tasarlanmış yeni nesil bir akıllı ev yönetim merkezidir. 
 
 Bulut bağımlılığını en aza indiren yerel ağ mimarisi (Local-First), milisaniye seviyesinde röle tetikleme hızı, tarayıcı tabanlı görüntü işleme ile hareket algılama ve Türkçe sesli komut sistemi ile donatılmıştır.
 
@@ -30,7 +30,7 @@ Bulut bağımlılığını en aza indiren yerel ağ mimarisi (Local-First), mili
 
 <div align="center">
   <!-- Ekran görüntülerinizi 'screenshots/' klasörüne ekleyip yolları güncelleyebilirsiniz -->
-  <img src="./screenshots/dashboard-preview.png" alt="Dashboard Preview" width="850" />
+  <img src="./assets/panel.png" alt="Dashboard Preview" width="850" />
 </div>
 
 <br />
@@ -39,22 +39,22 @@ Bulut bağımlılığını en aza indiren yerel ağ mimarisi (Local-First), mili
   <table>
     <tr>
       <td width="50%">
-        <img src="./screenshots/camera-security.png" alt="Güvenlik & Kamera Takibi" />
-        <p align="center"><b>Canlı Kamera Akışı & Hareket Algılama</b></p>
+        <img src="./assets/role.png" alt="Röle Durumları" />
+        <p align="center"><b>Röle Durumları</b></p>
       </td>
       <td width="50%">
-        <img src="./screenshots/scenes-rooms.png" alt="Senaryo ve Oda Yönetimi" />
-        <p align="center"><b>Özelleştirilebilir Senaryolar & Odalar</b></p>
+        <img src="./assets/senaryo.png" alt="Senaryo Yönetimi" />
+        <p align="center"><b>Özelleştirilebilir Senaryolar</b></p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <img src="./screenshots/voice-control.png" alt="Sesli Komut Sistemi" />
-        <p align="center"><b>Web Speech API ile Sesli Kontrol</b></p>
+        <img src="./assets/odalar.png" alt="Oda Yönetimi" />
+        <p align="center"><b>Özelleştirilebilir Odalar</b></p>
       </td>
       <td width="50%">
-        <img src="./screenshots/mobile-pwa.png" alt="Mobil PWA Arayüzü" />
-        <p align="center"><b>Responsive & PWA Kurulabilir Mobil Arayüz</b></p>
+        <img src="./assets/zamanlayici.png" alt="Zamanlayıcı" />
+        <p align="center"><b>Zamanlayıcı ile Rutine Göre Çalışma</b></p>
       </td>
     </tr>
   </table>
