@@ -117,7 +117,7 @@ Bu projenin kaynak kodları, görsel tasarımları, arayüz bileşenleri ve ente
 
 Projeyle ilgili sorularınız, iş birlikleri ve demo talepleri için:
 
-- **Geliştirici:** [YF CODE]
-- **E-Posta:** [yfcodetr@gmail.com]
-- **LinkedIn:** [linkedin.com/in/m-yusuf-uzun)
-- **Web:** [yfcode.dev)
+- **Geliştirici:** YF CODE
+- **E-Posta:** yfcodetr@gmail.com
+- **LinkedIn:** linkedin.com/in/m-yusuf-uzun
+- **Web:** yfcode.dev
