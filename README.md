@@ -1,4 +1,5 @@
 <div align="center">
+<img src="assets/logo.png" alt="Logo" width="320" />
 
 # YF Home System - Akıllı Ev Kontrol
 
